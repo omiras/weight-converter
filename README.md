@@ -1,6 +1,6 @@
 # Conversor de peso
 
-[Demo](https://demo.100jsprojects.com/weight-converter)
+[Demo](hhttps://omiras.github.io/weight-converter/)
 
 Crea un conversor de peso de _pounds_ a _kg_ . Fíjate que no hay botón para ejecutar la opración. Puedes conseguir la funcionalidad facilmente con un evento de tipo [input](https://www.w3schools.com/Tags/tryit.asp?filename=tryhtml5_ev_oninput)
 
